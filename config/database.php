@@ -6,6 +6,6 @@ return [
     'username' => getenv('username'),
     'password' => getenv('password'),
     'charset' => getenv('charset'),
-    'collation' => getenv('collation'),
+    'collation' => getenv('collation')
 ];
 
